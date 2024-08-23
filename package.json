@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/code_squad/",
+    "build": "vite build --base=/js_107_miami/",
     "preview": "vite preview"
   },
   "devDependencies": {
